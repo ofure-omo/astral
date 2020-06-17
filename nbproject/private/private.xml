@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/pagetorun.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/controller/categories_controller.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/views/pages/home.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/views/business/comments.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/views/business/create.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/views/business/update.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/model/businessPage.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/views/member/register.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/views/member/admin_dash.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/controller/mem_controller.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/views/member/login.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/views/business/readAll.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/connection.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/controller/admin_controller.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/views/member/mem_dash.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/views/member/user_update.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/model/categories.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/controller/businessPage_controller.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/views/index.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/controller/business_controller.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/model/business.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/model/signout.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/views/business/read.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/controller/login_controller.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/controller/register_controller.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/model/login.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/routes.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/controller/home_controller.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/views/business/unlike.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/views/member/business_dash.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/model/home.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/astral/views/business/like.php</file>
+        </group>
+    </open-files>
+</project-private>
